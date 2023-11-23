@@ -1,5 +1,9 @@
 # 💫 About Me:
-Data-Driven Decisions<br><br>Soy Contador Público de la Universidad del Valle con más de 3 años de experiencia en brindar servicios de calidad. Me enfoco en utilizar las nuevas tecnologías de la información y comunicación para mejorar la eficiencia y efectividad de mis soluciones contables. Además, poseo una sólida formación en analitica de datos, V.B.A. y lenguajes de programación lo que me permite tener una comprensión profunda del negocio y sus datos para responder a preguntas que aportan valor a la organización.<br><br>Como contador, trabajo de manera colaborativa en el desarrollo de modelos de Machine Learning que se integran a aplicaciones de software basados en datos contables, financieros, administrativos y tributarios convirtiéndolas en respuestas para la toma de decisiones del negocio.
+Soy un animal consciente apasionado por los numeros, ciencia, arte y letras que decidió sumergirse en el mundo de la contaduría pública en la Universidad del Valle. Llevo más de 3 años dando consejos que realmente marcan la diferencia. ¿Mi truco? Usar las herramientas tecnológicas más modernas para hacer mi trabajo de manera más eficiente y poderosa.
+
+También soy un mago de los datos y un casi experto en programación, lo que me permite bucear profundamente en los secretos del negocio y sacar conclusiones valiosas que impulsan el crecimiento de la organización.
+
+Cuando se trata de contabilidad, soy todo un equipo. Trabajo mano a mano con mis colegas en la creación de modelos de Analitica basadas en datos contables, financieros, administrativos y fiscales. Así, convierto números en decisiones inteligentes que guían el rumbo del negocio.
 
 
 ## 🌐 Socials:
