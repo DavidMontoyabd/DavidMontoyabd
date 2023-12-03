@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un animal consciente apasionado por los numeros, ciencia, arte y letras que decidió sumergirse en el mundo de la contaduría pública en la Universidad del Valle. Llevo más de 3 años dando consejos que realmente marcan la diferencia. ¿Mi truco? Usar las herramientas tecnológicas más modernas para hacer mi trabajo de manera más eficiente y poderosa.
+Soy un animal consciente apasionado por los numeros, ciencia, arte y letras que decidió sumergirse en el mundo de la contaduría pública. Llevo más de 3 años dando consejos que realmente marcan la diferencia. ¿Mi truco? Usar las herramientas tecnológicas más modernas para hacer mi trabajo de manera más eficiente y poderosa.
 
 También soy un mago de los datos y un casi experto en programación, lo que me permite bucear profundamente en los secretos del negocio y sacar conclusiones valiosas que impulsan el crecimiento de la organización.
 
